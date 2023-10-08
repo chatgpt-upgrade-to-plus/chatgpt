@@ -1,4 +1,5 @@
-本篇文章主要解决国内用户如何注册ChatGPT帐号、如何使用ChatGPT、以及如何使用ChatGPT API KEY的接口调用。可以说，这篇文章能够解决你遇到的大部分 ChatGPT 遇到的问题，如果还有其他问题没有更新的，请联系老张补充。
+本篇文章主要解决国内用户如何注册ChatGPT帐号、如何使用ChatGPT、以及如何使用ChatGPT API KEY的接口调用。可以说，这篇文章能够解决你遇到的大部分 ChatGPT
+遇到的问题，如果还有其他问题没有更新的，请联系老张补充。
 
 ## **ChatGPT是什么**
 
@@ -26,15 +27,10 @@ ChatGPT是由OpenAI开发的一种先进的人工智能语言模型，旨在与�
 
 ### **步骤1：打开OpenAI网站并找到ChatGPT注册登录入口**
 
-首先，打开[OpenAI的ChatGPT页面](https://openai.com/blog/chatgpt)。在OpenAI官方网站页面的右上角，您会看到一个ChatGPT”Log In”按钮。点击该按钮以进入OpenAI ChatGPT注册帐号的登录页面。
+首先，打开[OpenAI的ChatGPT页面](https://openai.com/blog/chatgpt)。在OpenAI官方网站页面的右上角，您会看到一个ChatGPT”Log In”按钮。点击该按钮以进入OpenAI
+ChatGPT注册帐号的登录页面。
 
 ![img](https://pic1.zhimg.com/80/v2-b94864930aad2c6ed96c7f4ce96807b4_1440w.png?source=d16d100b)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ### **步骤2：选择Gmail邮箱登录方式注册ChatGPT帐号**
 
@@ -42,23 +38,11 @@ ChatGPT是由OpenAI开发的一种先进的人工智能语言模型，旨在与�
 
 ![img](https://pic1.zhimg.com/80/v2-aee97c8ff364ace66704144fa9ad504f_1440w.png?source=d16d100b)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
-
 ### **步骤3：Gmail邮箱验证ChatGPT帐号注册验证码**
 
 跳转到Google的Gmail登录页面后，输入您的Google账号和密码。登录Gmail完成后，请打开您的Gmail邮箱查收OpenAI账号验证邮件ChatGPT注册验证码，并点击OpenAI的注册验证链接按钮。
 
 ![img](https://pic1.zhimg.com/80/v2-c64e153a9093e72fcfc4f4e0fdffb65f_1440w.png?source=d16d100b)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ### **步骤4：填写OpenAI的个人信息，注册ChatGPT帐号**
 
@@ -66,23 +50,12 @@ ChatGPT是由OpenAI开发的一种先进的人工智能语言模型，旨在与�
 
 ![img](https://picx.zhimg.com/80/v2-314afcfbc3541927721e7f2d60407cc1_1440w.png?source=d16d100b)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
-
 ### **步骤5：注册ChatGPT帐号绑定海外手机号码验证**
 
-这是OpenAI帐号注册最关键的一步，ChatGPT帐号需要绑定一个海外手机号来接收验证码。因为OpenAI不支持中国大陆、香港、澳门以及Google Voice的手机号码，您可能需要使用接码平台如 [sms-activate.org](https://sms-activate.org/?ref=8210851)。大多数人可能卡在了海外手机号绑定ChatGPT这一步。个人注册接码平台，需要充值10美刀，去绑定ChatGPT帐号的手机号，又不太划算。
+这是OpenAI帐号注册最关键的一步，ChatGPT帐号需要绑定一个海外手机号来接收验证码。因为OpenAI不支持中国大陆、香港、澳门以及Google
+Voice的手机号码，您可能需要使用接码平台如 [sms-activate.org](https://sms-activate.org/?ref=8210851)。大多数人可能卡在了海外手机号绑定ChatGPT这一步。个人注册接码平台，需要充值10美刀，去绑定ChatGPT帐号的手机号，又不太划算。
 
 ![img](https://picx.zhimg.com/80/v2-aebee6e7e73a3a846b6e2d0f4fea276f_1440w.png?source=d16d100b)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 ### **步骤6：通过接码平台完成OpenAI帐号手机号码验证**
 
@@ -93,25 +66,14 @@ ChatGPT是由OpenAI开发的一种先进的人工智能语言模型，旨在与�
 
 ![img](https://picx.zhimg.com/80/v2-4c252a346260b1a29d769b907f600775_1440w.png?source=d16d100b)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
-
 ### **步骤7：完成ChatGPT帐号注册并开始使用OpenAI的ChatGPT3.5**
 
-如果你购买的海外手机号质量比较好，没有在OpenAI注册使用过，那么很容ChatGPT手机号验证成功，您的OpenAI账号便完成注册。您将获得5美元的OpenAI API KEY额度，并可以开始使用ChatGPT，一般免费赠送的ChatGPT API KEY的5美刀额度都有三个月的使用期限。
+如果你购买的海外手机号质量比较好，没有在OpenAI注册使用过，那么很容ChatGPT手机号验证成功，您的OpenAI账号便完成注册。您将获得5美元的OpenAI API
+KEY额度，并可以开始使用ChatGPT，一般免费赠送的ChatGPT API KEY的5美刀额度都有三个月的使用期限。
 
 由于接码平台去注册ChatGPT帐号使用过多，经常会出现购买的海外手机号接收不到OpenAI注册ChatGPT帐号的验证码，老张经常使用虚拟手机号去接收ChatGPT帐号验证码，得出的经验是，英国虚拟手机号接收ChatGPT验证码成功率较高。
 
 ![img](https://pic1.zhimg.com/80/v2-6c37b3cec3c7ec10f5931593f6e0e520_1440w.png?source=d16d100b)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 登录成功后，您将进入ChatGPT的主界面。在屏幕的正下方，您会看到一个输入对话框。您可以输入您感兴趣的内容并按回车，ChatGPT将回答您。
 
